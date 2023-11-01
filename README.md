@@ -7,9 +7,6 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
@@ -27,6 +24,7 @@ or...
 - List item #3
 
 # Portfolio
+Final projet:
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
