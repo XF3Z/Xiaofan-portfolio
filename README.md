@@ -5,7 +5,7 @@
 # Portfolio
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I used to work as a CAD designer. I really like design.  And I like visualizations. 
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
