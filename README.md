@@ -2,8 +2,6 @@
 
 # Xiaofan-portfolio
 
-# Portfolio
-
 # About me
 Hi! I used to work as a CAD designer. I really like design.  And I like visualizations. 
 
