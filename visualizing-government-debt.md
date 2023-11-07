@@ -26,7 +26,7 @@ The general government debt-to-GDP ratio measures the gross debt of the general 
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+#
 The line chart shows changes in target growth and reduction. In the shortest time possible, viewers can see which countries' debt ratios have changed the most or the least from 1995 to 2019. This information is probably the most important for most viewers, so I've highlighted the two countries that have changed the most and the least.
 
 For the second visualization, Heat map, the advantage is that it has enough detailed information. If I wanted to know the numbers. I believe that using heat map is a better choice. In this heat map, two colors are used to distinguish between countries with high debt ratios and countries with low debt ratios. Viewers don't need to spend time comparing each number.
