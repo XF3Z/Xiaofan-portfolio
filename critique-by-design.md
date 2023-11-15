@@ -2,3 +2,18 @@
 
 # Averge Internet speed across Europe
 Text here...
+# Step 1: Original data visualization
+
+<img width="1218" alt="image" src="https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/82d1465c-f8cc-4300-9bb1-4f520027dc5a">
+
+<img width="1208" alt="image" src="https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/6e00a8ee-d487-41f5-a917-a659b5fbd103">
+
+Source: https://datavis.europeandatajournalism.eu/obct/connectivity/
+
+# Step 3: Sketch out a solution
+<img width="699" alt="image" src="https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/144ea808-1ef9-46f9-a249-99f1ef614a1a">
+
+# Step 4: Test the solution
+Heinz student mid 20's
+Heinz student late 20's
+
