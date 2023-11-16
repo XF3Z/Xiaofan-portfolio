@@ -1,4 +1,4 @@
-| [home page](https://xf3z.github.io/Xiaofan-portfolio/) | [visualizing debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://xf3z.github.io/Xiaofan-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by Design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Xiaofan-portfolio
 
