@@ -17,3 +17,8 @@ Source: https://datavis.europeandatajournalism.eu/obct/connectivity/
 Heinz student mid 20's
 Heinz student late 20's
 
+Questions:
+1. What elements of the picture appeal to you the most?
+2. Did these elements help you get the information you wanted?
+
+Feedback: The bar chart does a good job of showing growth. If each bar is marked with a number, the viewer will get faster information about the Internet speed. The use of different colors of bars is a good indication of the Internet speed in 2019 and the Internet speed in 2022. But it's hard to see which country is growing the most. Because the icon does not show this data.
