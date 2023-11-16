@@ -10,6 +10,9 @@ Text here...
 
 Source: https://datavis.europeandatajournalism.eu/obct/connectivity/
 
+# Step 2: Critique the data visualization
+Done in Google Spreadsheet
+
 # Step 3: Sketch out a solution
 <img width="699" alt="image" src="https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/144ea808-1ef9-46f9-a249-99f1ef614a1a">
 
