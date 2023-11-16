@@ -54,4 +54,4 @@ For the original design, I don't know if green or blue means faster Internet spe
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-I don't understand what the numbers mean when it comes to the original design for the increase in Internet speeds from 2019 to 2022. Do these numbers represent current Internet speeds or percentage increases or decreases? I use different colors of bars to represent different years. By simply increasing the length and descending order of the bar, viewers can find out which country has the fastest Internet speed each year.
+I don't understand what the numbers mean when it comes to the original design for the increase in Internet speeds from 2019 to 2022. Do these numbers represent current Internet speeds or percentage increases or decreases? I use different colors of bars to represent different years. By simply increasing the length and descending order of the bar, viewers can find out which country has the fastest Internet speed each year. By observing, we can see that the countries that lead in Internet speed in 2022 are not necessarily the same as a few years ago.
