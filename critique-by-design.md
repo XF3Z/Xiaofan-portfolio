@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://xf3z.github.io/Xiaofan-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Averge Internet speed across Europe
 Text here...
@@ -17,7 +17,9 @@ Done in Google Spreadsheet
 <img width="699" alt="image" src="https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/144ea808-1ef9-46f9-a249-99f1ef614a1a">
 
 # Step 4: Test the solution
+
 Heinz student mid 20's
+
 Heinz student late 20's
 
 Questions:
