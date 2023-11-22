@@ -70,6 +70,8 @@ Collaboration among countries, along with stringent enforcement of existing wild
 |The status of African elephants|[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/the-status-of-african-elephants)|Story and Data Reference|
 |WHY DO PEOPLE BUY ELEPHANT IVORY?|[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/why-do-people-buy-elephant-ivory) |Story Reference|
 |14 Things You Didn’t Know About Today’s Ivory Trade|[Click Here](https://wildaid.org/14-things-you-didnt-know-about-todays-ivory-trade/)|Story and Data Reference|
+|A Risk Analysis of Elephant Poaching in Kenya|[Click Here](https://sites.tufts.edu/gis/files/2019/05/Carnahan_Danielle_MCM591_Fall2018.pdf)|Data Reference|
+|Elephant Poaching Statistics|[Click Here](https://www.poachingfacts.com/poaching-statistics/elephant-poaching-statistics/)|Data Reference|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project.
