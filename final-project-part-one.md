@@ -60,10 +60,6 @@ Collaboration among countries, along with stringent enforcement of existing wild
 |WHY DO PEOPLE BUY ELEPHANT IVORY?|[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/why-do-people-buy-elephant-ivory) |Story Reference|
 |14 Things You Didn’t Know About Today’s Ivory Trade|[Click Here](https://wildaid.org/14-things-you-didnt-know-about-todays-ivory-trade/)|Story and Data Reference|
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project.
 
