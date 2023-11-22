@@ -1,11 +1,12 @@
 | [home page](https://xf3z.github.io/Xiaofan-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by Design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Outline
+## Outline
 1. Issues related to the decline of elephant numbers in Kenya (bar chart, line chart, map)
 2. Poaching has led to the decline of elephant numbers, and background knowledge on poaching (bar chart, line chart)
 3. Future strategies to save elephants
 
 > The summary of the story:
+
 1. The Decline in Elephant Numbers in Kenya
 
 The precipitous decline in Kenya's elephant population has raised significant concerns and generated numerous pressing questions among conservationists, scientists, and policymakers. Over the last few decades, the once-thriving elephant population has seen a staggering decrease, prompting critical inquiries into the reasons behind this distressing trend.
@@ -42,6 +43,7 @@ International Collaboration and Policy Advocacy:
 Collaboration among countries, along with stringent enforcement of existing wildlife protection laws, is imperative. International cooperation can combat transnational wildlife crime networks and reduce the demand for ivory through advocacy, education, and diplomatic efforts.
 
 ## Initial sketches
+
 > Story Arc
 ![121200716](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/071ace7a-fa52-47ac-8d4f-ac495782fc69)
 
