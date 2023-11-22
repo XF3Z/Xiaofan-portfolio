@@ -27,21 +27,21 @@ Text here...
 
 ## Initial sketches
 
-
-Text here...
+![192345](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/1e389f17-dfd7-4270-94e9-a96092f91226)
+![31121192401](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/7b211b5a-0d9b-45cd-aa67-1796e5761725)
+![1192351](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/c2bd4a30-f0c9-4d02-bcbb-efe03db36574)
+![121192335](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/086141fc-1b2c-45fc-81ef-5c968ff72c93)
+![2355](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/6a95341c-b92f-4fc3-b415-842b182734c4)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| the guardian     |   [Click Here](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)  |      Story and Data Reference       |
+|   ELEPHANT  POPULATION IN AFRICA   |   [Click Here](https://www.overandaboveafrica.com/elephants?gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrbtbqsfObkUjD_vBl8s-cSBFJ-q_-JnZ_xWS0k7Gb10IgTMv0buUsaAnOcEALw_wcB)     |   Data Reference       |
+|   The status of African elephants   |    [Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/the-status-of-african-elephants)    |   Story and Data Reference     |
+|   WHY DO PEOPLE BUY ELEPHANT IVORY?   |[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/why-do-people-buy-elephant-ivory)     |   Story Reference      |
+|     14 Things You Didn’t Know About Today’s Ivory Trade      |    [Click Here](https://wildaid.org/14-things-you-didnt-know-about-todays-ivory-trade/)      |     Story and Data Reference      |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
