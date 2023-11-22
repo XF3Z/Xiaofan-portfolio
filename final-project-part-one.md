@@ -1,18 +1,16 @@
 | [home page](https://xf3z.github.io/Xiaofan-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by Design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-1. Issues related to the decline of elephant numbers in Kenya (bar chart, line chart)
+1. Issues related to the decline of elephant numbers in Kenya (bar chart, line chart, map)
 2. Poaching has led to the decline of elephant numbers, and background knowledge on poaching (bar chart, line chart)
 3. Future strategies to save elephants
-   
+
+> The summary of the story:
 1. The Decline in Elephant Numbers in Kenya
 
 The precipitous decline in Kenya's elephant population has raised significant concerns and generated numerous pressing questions among conservationists, scientists, and policymakers. Over the last few decades, the once-thriving elephant population has seen a staggering decrease, prompting critical inquiries into the reasons behind this distressing trend.
 
-Magnitude of the Decline:
+The magnitude of the Decline:
 Data from the Kenya Wildlife Service (KWS) and conservation groups reveal a disturbing reality - the decline in elephant numbers from an estimated 167,000 in the 1970s to just around 34,000 in recent years. This significant drop has triggered alarm bells, leading to an urgent need for comprehensive investigation and action.
 
 Factors Contributing to the Decline:
@@ -43,10 +41,6 @@ Harnessing technological advancements, such as satellite tracking, DNA analysis,
 International Collaboration and Policy Advocacy:
 Collaboration among countries, along with stringent enforcement of existing wildlife protection laws, is imperative. International cooperation can combat transnational wildlife crime networks and reduce the demand for ivory through advocacy, education, and diplomatic efforts.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
-
 ## Initial sketches
 
 ![192345](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/1e389f17-dfd7-4270-94e9-a96092f91226)
@@ -56,16 +50,20 @@ Text here...
 ![2355](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/6a95341c-b92f-4fc3-b415-842b182734c4)
 
 # The data
-
+> An explanation of how I plan on using my data:
 | Name | URL | Description |
 |------|-----|-------------|
-| the guardian     |   [Click Here](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)  |      Story and Data Reference       |
+| The guardian     |   [Click Here](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)  |      Story and Data Reference       |
 |   ELEPHANT  POPULATION IN AFRICA   |   [Click Here](https://www.overandaboveafrica.com/elephants?gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrbtbqsfObkUjD_vBl8s-cSBFJ-q_-JnZ_xWS0k7Gb10IgTMv0buUsaAnOcEALw_wcB)     |   Data Reference       |
 |   The status of African elephants   |    [Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/the-status-of-african-elephants)    |   Story and Data Reference     |
 |   WHY DO PEOPLE BUY ELEPHANT IVORY?   |[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/why-do-people-buy-elephant-ivory)     |   Story Reference      |
 |     14 Things You Didn’t Know About Today’s Ivory Trade      |    [Click Here](https://wildaid.org/14-things-you-didnt-know-about-todays-ivory-trade/)      |     Story and Data Reference      |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> In a few sentences, you should document how you plan on completing your final project.
 
-Text here...
+For the first part, I will briefly explain to the audience to quickly understand the main content of this research. I don't want to include too much detailed data in this section to affect the viewer's experience. I will mainly use a line chart or bar chart and show the map to let the audience locate the place where things happen.
+For the second part, I will use storytelling to explain to the audience why these things happen. Use detailed data to tell them why. I will mainly use a line chart or bar chart.
+For the third part, I will present the improvements people are already making and their results. I will mainly use a line chart or bar chart.
+For the initial sketches, I will use the iPad to draw them quickly to determine if they are usable.
+For the final solution, I will use Shorthand and Tableau.
