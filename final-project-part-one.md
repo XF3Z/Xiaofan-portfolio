@@ -42,10 +42,10 @@ International Collaboration and Policy Advocacy:
 Collaboration among countries, along with stringent enforcement of existing wildlife protection laws, is imperative. International cooperation can combat transnational wildlife crime networks and reduce the demand for ivory through advocacy, education, and diplomatic efforts.
 
 ## Initial sketches
-##> Story Arc
+> Story Arc
 ![121200716](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/071ace7a-fa52-47ac-8d4f-ac495782fc69)
 
-> ##Elephant population in Africa
+> Elephant population in Africa
 ![192345](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/1e389f17-dfd7-4270-94e9-a96092f91226)
 
 > Elephant population in Africa
