@@ -7,7 +7,7 @@
 
 > The summary of the story:
 
-1. The Decline in Elephant Numbers in Kenya
+1.The Decline in Elephant Numbers in Kenya
 
 The precipitous decline in Kenya's elephant population has raised significant concerns and generated numerous pressing questions among conservationists, scientists, and policymakers. Over the last few decades, the once-thriving elephant population has seen a staggering decrease, prompting critical inquiries into the reasons behind this distressing trend.
 
@@ -20,7 +20,7 @@ Several factors have been identified as contributing to the decline in Kenya's e
 Impact on Ecosystems and Communities:
 The decline in elephant numbers has repercussions beyond the species itself. Elephants play a crucial role in shaping and maintaining ecosystems, and their decline can disrupt the balance of flora and fauna. Furthermore, communities relying on wildlife-based tourism, a significant economic driver in Kenya, face adverse consequences due to the dwindling elephant population.
 
-2. Poaching Contributes to Elephant Population Decline
+2.Poaching Contributes to Elephant Population Decline
 
 Background on Poaching:
 Poaching, driven by the demand for ivory in global markets, remains one of the foremost threats to elephant populations not only in Kenya but across Africa. Despite international bans on ivory trade, the illicit demand persists, fueling a lucrative black market and incentivizing poachers to kill elephants for their tusks.
@@ -31,7 +31,7 @@ Statistics from wildlife conservation organizations illustrate the gravity of th
 Impact of Poaching:
 Poaching not only diminishes elephant numbers but also disrupts social structures within elephant herds, as well as the broader ecosystem. The loss of mature elephants, often targeted by poachers for their larger tusks, has detrimental effects on herd dynamics, breeding patterns, and the transfer of knowledge within elephant communities.
 
-3. Future Strategies to Save Elephants
+3.Future Strategies to Save Elephants
 
 Anti-Poaching Measures:
 To combat poaching, various measures have been implemented, including increased patrols, technological advancements like drones and GPS tracking, community involvement in conservation, and stiffer penalties for wildlife crimes. These efforts aim to deter poachers and disrupt illegal ivory supply chains.
