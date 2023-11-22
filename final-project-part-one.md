@@ -51,6 +51,7 @@ Collaboration among countries, along with stringent enforcement of existing wild
 
 # The data
 > An explanation of how I plan on using my data:
+
 | Name | URL | Description |
 |------|-----|-------------|
 |The guardian|[Click Here](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)|Story and Data Reference|
