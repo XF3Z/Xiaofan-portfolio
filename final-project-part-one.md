@@ -53,11 +53,11 @@ Collaboration among countries, along with stringent enforcement of existing wild
 > An explanation of how I plan on using my data:
 | Name | URL | Description |
 |------|-----|-------------|
-| The guardian     |   [Click Here](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)  |      Story and Data Reference       |
-|   ELEPHANT  POPULATION IN AFRICA   |   [Click Here](https://www.overandaboveafrica.com/elephants?gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrbtbqsfObkUjD_vBl8s-cSBFJ-q_-JnZ_xWS0k7Gb10IgTMv0buUsaAnOcEALw_wcB)     |   Data Reference       |
-|   The status of African elephants   |    [Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/the-status-of-african-elephants)    |   Story and Data Reference     |
-|   WHY DO PEOPLE BUY ELEPHANT IVORY?   |[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/why-do-people-buy-elephant-ivory)     |   Story Reference      |
-|     14 Things You Didn’t Know About Today’s Ivory Trade      |    [Click Here](https://wildaid.org/14-things-you-didnt-know-about-todays-ivory-trade/)      |     Story and Data Reference      |
+|The guardian|[Click Here](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)|Story and Data Reference|
+|ELEPHANT  POPULATION IN AFRICA|[Click Here](https://www.overandaboveafrica.com/elephants?gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrbtbqsfObkUjD_vBl8s-cSBFJ-q_-JnZ_xWS0k7Gb10IgTMv0buUsaAnOcEALw_wcB)|Data Reference|
+|The status of African elephants|[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/the-status-of-african-elephants)|Story and Data Reference|
+|WHY DO PEOPLE BUY ELEPHANT IVORY?|[Click Here](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/why-do-people-buy-elephant-ivory) |Story Reference|
+|14 Things You Didn’t Know About Today’s Ivory Trade|[Click Here](https://wildaid.org/14-things-you-didnt-know-about-todays-ivory-trade/)|Story and Data Reference|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project.
