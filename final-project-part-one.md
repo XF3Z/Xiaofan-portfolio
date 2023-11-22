@@ -4,7 +4,11 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-The Decline in Elephant Numbers in Kenya
+1. Issues related to the decline of elephant numbers in Kenya (bar chart, line chart)
+2. Poaching has led to the decline of elephant numbers, and background knowledge on poaching (bar chart, line chart)
+3. Future strategies to save elephants
+   
+1. The Decline in Elephant Numbers in Kenya
 
 The precipitous decline in Kenya's elephant population has raised significant concerns and generated numerous pressing questions among conservationists, scientists, and policymakers. Over the last few decades, the once-thriving elephant population has seen a staggering decrease, prompting critical inquiries into the reasons behind this distressing trend.
 
@@ -17,9 +21,27 @@ Several factors have been identified as contributing to the decline in Kenya's e
 Impact on Ecosystems and Communities:
 The decline in elephant numbers has repercussions beyond the species itself. Elephants play a crucial role in shaping and maintaining ecosystems, and their decline can disrupt the balance of flora and fauna. Furthermore, communities relying on wildlife-based tourism, a significant economic driver in Kenya, face adverse consequences due to the dwindling elephant population.
 
-Mitigation Efforts and Challenges:
-Efforts to counter the decline have been ongoing, with various conservation organizations, government initiatives, and international collaborations working to protect elephants and their habitats. However, challenges persist, including insufficient resources, ineffective law enforcement, and the continuous demand for ivory in illegal markets.
+2. Poaching Contributes to Elephant Population Decline
 
+Background on Poaching:
+Poaching, driven by the demand for ivory in global markets, remains one of the foremost threats to elephant populations not only in Kenya but across Africa. Despite international bans on ivory trade, the illicit demand persists, fueling a lucrative black market and incentivizing poachers to kill elephants for their tusks.
+
+Poaching Statistics:
+Statistics from wildlife conservation organizations illustrate the gravity of the situation. In Kenya, tens of thousands of elephants have fallen victim to poaching in recent years, with a notable surge in illegal killings during periods of heightened demand for ivory.
+
+Impact of Poaching:
+Poaching not only diminishes elephant numbers but also disrupts social structures within elephant herds, as well as the broader ecosystem. The loss of mature elephants, often targeted by poachers for their larger tusks, has detrimental effects on herd dynamics, breeding patterns, and the transfer of knowledge within elephant communities.
+
+3. Future Strategies to Save Elephants
+
+Anti-Poaching Measures:
+To combat poaching, various measures have been implemented, including increased patrols, technological advancements like drones and GPS tracking, community involvement in conservation, and stiffer penalties for wildlife crimes. These efforts aim to deter poachers and disrupt illegal ivory supply chains.
+
+Technology and Innovation:
+Harnessing technological advancements, such as satellite tracking, DNA analysis, and artificial intelligence, can significantly aid conservation efforts. These tools enhance monitoring capabilities, facilitate rapid response to poaching incidents, and enable better understanding of elephant behavior and migration patterns.
+
+International Collaboration and Policy Advocacy:
+Collaboration among countries, along with stringent enforcement of existing wildlife protection laws, is imperative. International cooperation can combat transnational wildlife crime networks and reduce the demand for ivory through advocacy, education, and diplomatic efforts.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
