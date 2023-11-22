@@ -77,7 +77,11 @@ Collaboration among countries, along with stringent enforcement of existing wild
 > In a few sentences, you should document how you plan on completing your final project.
 
 For the first part, I will briefly explain to the audience to quickly understand the main content of this research. I don't want to include too much detailed data in this section to affect the viewer's experience. I will mainly use a line chart or bar chart and show the map to let the audience locate the place where things happen.
+
 For the second part, I will use storytelling to explain to the audience why these things happen. Use detailed data to tell them why. I will mainly use a line chart or bar chart.
+
 For the third part, I will present the improvements people are already making and their results. I will mainly use a line chart or bar chart.
+
 For the initial sketches, I will use the iPad to draw them quickly to determine if they are usable.
+
 For the final solution, I will use Shorthand and Tableau.
