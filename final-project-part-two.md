@@ -67,9 +67,9 @@ Text here!
 |Clarity|Added ivory trading countries chart. Audiences get information even if they don't read the text|
 |Understand|Increase the amount of data in the text. Instead of just introducing ways to save elephants|
 
-> Current data visualizations represent the minimum amount of information required by the audience. For viewers who need to dig deeper, I hope to provide more content based on their needs. Also stressed that people should address the ivory trade.
+> Final thoughts
 
-Text here!
+Current data visualizations represent the minimum amount of information required by the audience. For viewers who need to dig deeper, I hope to provide more content based on their needs. Also stressed that people should address the ivory trade.
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
