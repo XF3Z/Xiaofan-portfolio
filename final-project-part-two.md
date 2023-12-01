@@ -44,14 +44,16 @@ Text here!
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Heinz student, Late 20s
+Heinz student, Mid 20s
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| Questions               | Interview 1 (Heinz student, Late 20s) | Interview 2 (Heinz student, Mid 20s) | 
+|-------------------------|--------------------------------|-------------|
+|Q1|African elephant numbers are declining|There will only be around 30,000 elephants in Africa in 2022|       
+|Q2|The colors of the two maps explain the dramatic decline of elephants|I think the most important quantity chart should be placed next to the article rather than on the next page|             
+|Q3|It's more interesting because I like animals|I think maps have a strong impact and I prefer looking at pictures than data.|             
+|Q4|People are trying to protect elephants in a variety of ways|Ivory trade is the main cause of elephant population decline|
+|Q5|Perhaps a chart including which countries are the largest ivory traders would better explain the ivory trade section|I'd like to see more results, not methods, to save elephants|
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
