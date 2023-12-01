@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://xf3z.github.io/Xiaofan-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by Design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
@@ -32,11 +32,11 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|Clarity|Try spending 10 seconds observing and tell me what information you get|
-|Clarity|Does the Chart explain the most important information in the text? If not, what do you think is the most important information?|
-|Engement|Did the beginning of the article pique your interest?|
-|Understand|After reading everything, what do you think the article is advocating?|
-|Clarity|Is there any data that you think is important that needs additional charts to explain?|
+|Q1|Clarity|Try spending 10 seconds observing and tell me what information you get|
+|Q2|Clarity|Does the Chart explain the most important information in the text? If not, what do you think is the most important information?|
+|Q3|Engement|Did the beginning of the article pique your interest?|
+|Q4|Understand|After reading everything, what do you think the article is advocating?|
+|Q5|Clarity|Is there any data that you think is important that needs additional charts to explain?|
 
 
 Text here!
