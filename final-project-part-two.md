@@ -74,5 +74,6 @@ Current data visualizations represent the minimum amount of information required
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
+![image](https://github.com/XF3Z/Xiaofan-portfolio/assets/149110736/e6b502d8-38a2-4c76-a588-239d295266bd)
+
 
