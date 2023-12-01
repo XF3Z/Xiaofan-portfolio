@@ -62,13 +62,12 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|Clarity|Compare the two maps side by side and label them with numbers to indicate the current number of elephants. This will allow the audience to get the main information faster|
+|Understand|Add a closing paragraph while simplifying ways to protect elephants. I would anchor my conclusion on boycotting the ivory trade|
+|Clarity|Added ivory trading countries chart. Audiences get information even if they don't read the text|
+|Understand|Increase the amount of data in the text. Instead of just introducing ways to save elephants|
 
-> ...include any final thoughts you have here. 
+> Current data visualizations represent the minimum amount of information required by the audience. For viewers who need to dig deeper, I hope to provide more content based on their needs. Also stressed that people should address the ivory trade.
 
 Text here!
 
