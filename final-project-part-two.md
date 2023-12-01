@@ -30,8 +30,8 @@ This article is meant for everyone to understand because the drop in Kenya's ele
 
 Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
+|#| Goal | Questions to Ask |
+|---|------|------------------|
 |Q1|Clarity|Try spending 10 seconds observing and tell me what information you get|
 |Q2|Clarity|Does the Chart explain the most important information in the text? If not, what do you think is the most important information?|
 |Q3|Engement|Did the beginning of the article pique your interest?|
