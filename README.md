@@ -12,9 +12,6 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 2. Reduce useless information
 3. Readability
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
  [visualizing debt ratio](visualizing-government-debt.md)
 
