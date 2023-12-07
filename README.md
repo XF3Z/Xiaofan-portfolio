@@ -27,5 +27,6 @@ My topic is the dramatic decline in African elephant populations. I scour the da
 I created better data visualizations and listed more comparative data. I focused on poaching. Hopefully, people will pay attention to the impact of poaching on elephants. Finally, we call on people to boycott the ivory trade.
 
 [Final project III](final-project-part-three)
+In this section, you will see the completed story and data visualization. These figures show the decline in elephant numbers and the impact of poaching. At the end of the story, I list several ways that policymakers can help address the elephant population crisis.
 
 
