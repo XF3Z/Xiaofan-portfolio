@@ -29,15 +29,22 @@ Text here!
 
 Data reference:
 [The Current Mass Extinction](https://www.pbs.org/wgbh/evolution/library/03/2/l_032_04.html)
+
 [Estimating the normal background rate of species extinction](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.12380)
+
 [European hamster, North Atlantic right whale among latest species to become critically endangered](https://www.cnn.com/2020/07/09/world/iucn-red-list-july-2020-spc-int/index.html)
+
 [The state of the world’s elephant populations](https://ourworldindata.org/elephant-populations)
+
 [Elephant Poaching Statistics](https://www.poachingfacts.com/poaching-statistics/elephant-poaching-statistics/)
 
 Story reference:
 [The Guardian](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)
+
 [The status of African elephants](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/the-status-of-african-elephants)
+
 [ELEPHANT  POPULATION IN AFRICA](https://www.overandaboveafrica.com/elephants?gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMrbtbqsfObkUjD_vBl8s-cSBFJ-q_-JnZ_xWS0k7Gb10IgTMv0buUsaAnOcEALw_wcB)
+
 [WHY DO PEOPLE BUY ELEPHANT IVORY?](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/why-do-people-buy-elephant-ivory)
 
 Photo reference:
