@@ -18,7 +18,7 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 [Critique by Design with Tableau](critique-by-design)
 
-## Final project
+## Final project : Number of elephants decreasing in Africa
 
 [Final project I](final-project-part-one)
 My topic is the dramatic decline in African elephant populations. I scour the data to compare elephant populations in Africa decades ago with those now, and I'll lay out the reasons for this. I mainly want to express to the audience the harm of poaching to elephants.
