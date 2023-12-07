@@ -7,7 +7,7 @@
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II.
-> 
+
 Based on the suggestions made by the audience and professors, I made the following changes in part 3:
 
 1. I changed the story structure of the article to make the story flow more smoothly. Improve the entire article by asking questions, discovering causes, and proposing solutions.
@@ -22,12 +22,15 @@ The intended audience for this data story and analysis leans heavily toward poli
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+1. Tell your audience that your topic is important. If you let the audience guess, it will often mislead them to go in another direction.
+2. Properly citing data sources is something I’m always learning.
+3. Use data visualization to help the audience understand the content of the article. I think including too much information can make it difficult for viewers to choose what they want. I would try to separate multiple pieces of information into different data visualizations. Each data visualization only focuses on one piece of data.
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
 Data reference:
+
 [The Current Mass Extinction](https://www.pbs.org/wgbh/evolution/library/03/2/l_032_04.html)
 
 [Estimating the normal background rate of species extinction](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/cobi.12380)
@@ -39,6 +42,7 @@ Data reference:
 [Elephant Poaching Statistics](https://www.poachingfacts.com/poaching-statistics/elephant-poaching-statistics/)
 
 Story reference:
+
 [The Guardian](https://www.theguardian.com/environment/2016/sep/09/elephants-on-the-path-to-extinction-the-facts-chinese-language)
 
 [The status of African elephants](https://www.worldwildlife.org/magazine/issues/winter-2018/articles/the-status-of-african-elephants)
