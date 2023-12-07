@@ -1,7 +1,9 @@
 | [home page](https://xf3z.github.io/Xiaofan-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by Design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here.
+
+Shorthand URL:https://preview.shorthand.com/dHAxt9CKxIdekLiO
 
 <script src="https://carnegiemellon.shorthandstories.com/now-or-never/embed.js"></script>
 
