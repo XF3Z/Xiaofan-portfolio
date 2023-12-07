@@ -15,6 +15,7 @@ Based on the suggestions made by the audience and professors, I made the followi
 1. I changed the story structure of the article to make the story flow more smoothly. Improve the entire article by asking questions, discovering causes, and proposing solutions.
 2. I used new data visualizations. In Part 2, my visualization was too single. In Part 3, I used a variety of visualizations to enrich the content.
 3. I added sources of citations for the article data to avoid plagiarism.
+4. I narrowed my audience and made it more focused on a smaller group of people.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
